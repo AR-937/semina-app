@@ -1,6 +1,6 @@
-# Seminar Participants
+# Semina
 
-The **Seminar Participants** app efficiently manages seminar registrations and participant information. Designed as a scalable and resilient cloud-native application, it consists of a **.NET MVC client**, a **.NET API**, and utilizes **MS SQL Server** as its database. Containerization is achieved using **Docker**, and deployment is handled with **Kubernetes**, ensuring adherence to cloud-native principles that enhance scalability, high availability, and security.
+The **Semina** app efficiently manages seminar registrations and participant information. Designed as a scalable and resilient cloud-native application, it consists of a **.NET MVC client**, a **.NET API**, and utilizes **MS SQL Server** as its database. Containerization is achieved using **Docker**, and deployment is handled with **Kubernetes**, ensuring adherence to cloud-native principles that enhance scalability, high availability, and security.
 
 ## Features
 
